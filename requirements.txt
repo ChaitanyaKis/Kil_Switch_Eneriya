@@ -1,0 +1,25 @@
+# Core CV
+opencv-python
+numpy
+
+# ML / Torch (CPU for prototype)
+torch
+torchvision
+
+# ReID + embeddings
+faiss-cpu
+scikit-learn
+
+# Config management
+pyyaml
+hydra-core
+
+# Async + utilities
+tqdm
+loguru
+
+# Visualization (Person 3)
+streamlit
+
+# Testing
+pytest
